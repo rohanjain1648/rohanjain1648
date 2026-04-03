@@ -34,8 +34,9 @@ class RohanJain:
         "Multi-Agent Systems",
         "Large Language Models",
         "Deep Learning",
+        "Machine Learning"
         "Full Stack Development",
-        "Web3"
+        
     ]
 
     currently_building = [
