@@ -3,10 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rohan%20Jain&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=56&descSize=19&descColor=a78bfa"/>
 
-<!-- ✅ ANIMATED TYPING INTRO — Multi-line with role cycling -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India+🇮🇳;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;📺+GenAI+Broadcast+Pipelines+%7C+LOQO-AI;🚀+Shipping+AI-Powered+Products+to+Production;💡+%22Build+Fast.+Learn+Faster.+Ship+What+Matters.%22" alt="Typing SVG" />
-</a>
+<!-- ✅ ANIMATED TYPING INTRO -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India!;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;📺+GenAI+Broadcast+Pipelines+%7C+LOQO-AI;🚀+Shipping+AI-Powered+Products+to+Production;💡+Build+Fast.+Learn+Faster.+Ship+What+Matters.)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -99,6 +97,7 @@ class RohanJain:
 
 ### 🌐 Web & Full Stack
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
@@ -118,7 +117,6 @@ class RohanJain:
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -154,7 +152,7 @@ class RohanJain:
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanjain1648&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohanjain1648&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -185,71 +183,6 @@ class RohanJain:
 [![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanjain1648&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=a78bfa&area=true&hide_border=true&custom_title=Rohan%27s%20Contribution%20Graph&title_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## ✅ 3D Contribution Snake
-
-> *Every commit feeds the snake 🐍 — watching the grid come alive*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohanjain1648/rohanjain1648/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanjain1648/rohanjain1648/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/rohanjain1648/rohanjain1648/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ <strong>Click here — How to activate the 3D snake animation</strong></summary>
-
-<br/>
-
-**Step 1:** In your profile repo (`rohanjain1648/rohanjain1648`), create this file:
-`.github/workflows/snake.yml`
-
-**Step 2:** Paste this workflow:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to repo **Settings → Actions → General** → set to "Allow all actions" → Save.
-
-**Step 4:** Go to **Actions tab** → click "Generate Snake" → "Run workflow". Done! 🎉
-
-</details>
 
 ---
 
