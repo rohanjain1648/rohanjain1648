@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rohan%20Jain&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=56&descSize=19&descColor=a78bfa"/>
 
 <!-- ✅ ANIMATED TYPING INTRO -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India!;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;📺+GenAI+Broadcast+Pipelines+%7C+LOQO-AI;🚀+Shipping+AI-Powered+Products+to+Production;💡+Build+Fast.+Learn+Faster.+Ship+What+Matters.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India!;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;🚀+Shipping+AI-Powered+Products+to+Production;💡+Build+Fast.+Learn+Faster.+Ship+What+Matters.)](https://git.io/typing-svg)
 
 <br/><br/>
 
