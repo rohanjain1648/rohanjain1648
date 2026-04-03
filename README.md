@@ -5,7 +5,7 @@
 
 <!-- ✅ ANIMATED TYPING INTRO — Multi-line with role cycling -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India+🇮🇳;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;📺+GenAI+Broadcast+Pipelines+%7C+LOQO-AI;⛓️+Web3+Explorer+%7C+On-Chain+AI+Experiments;🚀+Shipping+AI-Powered+Products+to+Production;💡+%22Build+Fast.+Learn+Faster.+Ship+What+Matters.%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=45&lines=👋+Hey%2C+I'm+Rohan+Jain+from+India+🇮🇳;🤖+AI+%7C+ML+%7C+Deep+Learning+%7C+GenAI+Engineer;🧠+Building+Multi-Agent+Systems+with+LangGraph;🔮+LLMs+%7C+Gemini+%7C+RAG+%7C+Vector+Databases;🌐+Full+Stack+Dev+%7C+TypeScript+%7C+Next.js;🏥+Multimodal+AI+%7C+Vision+%2B+Voice+Systems;📺+GenAI+Broadcast+Pipelines+%7C+LOQO-AI;🚀+Shipping+AI-Powered+Products+to+Production;💡+%22Build+Fast.+Learn+Faster.+Ship+What+Matters.%22" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -35,7 +35,6 @@ class RohanJain:
         "Deep Learning",          # CNNs, Transformers, Vision Models
         "LLM Engineering",        # LangGraph, LangChain, Gemini, GPT
         "Full Stack Development", # TypeScript, Next.js, FastAPI
-        "Web3"                    # On-chain AI, Smart Contracts
     ]
 
     currently_building = [
@@ -53,144 +52,80 @@ class RohanJain:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📺 [LOQO-AI](https://github.com/rohanjain1648/LOQO-AI)
-> **News URL → Broadcast Screenplay Generator**
-
-A production-grade **4-agent LangGraph pipeline** that transforms any news URL into a fully structured TV broadcast screenplay — with timed narration, dynamic headlines, visual packaging, and smart QA-driven retries.
-
-**Tech:** `LangGraph` `Gemini 2.0 Flash` `LangFuse` `Python` `Streamlit` `Pydantic`
-
-**Highlights:**
-- ⚡ Parallel agent execution (Visual + Headline agents)
-- 🔄 Best-of-N retry with progressive prompt escalation
-- 📡 Full LangFuse observability & tracing
-- 🎬 60–120s broadcast-ready screenplay output
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [AI-DOCTOR-WITH-VISION-AND-VOICE](https://github.com/rohanjain1648/AI-DOCTOR-WITH-VISION-AND-VOICE)
-> **Multimodal AI Healthcare Assistant**
-
-An AI doctor powered by **vision + voice** that can analyze medical images, answer health queries, and respond with voice output — making healthcare assistance accessible and intelligent.
-
-**Tech:** `Python` `Multimodal LLM` `Computer Vision` `TTS/STT`
-
-**Highlights:**
-- 👁️ Vision-based medical image analysis
-- 🎙️ Voice-enabled interaction
-- 🧬 Multimodal reasoning pipeline
-- 🩺 Patient-friendly response generation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [AMBORAS](https://github.com/rohanjain1648/AMBORAS)
-> **Full Stack TypeScript Application**
-
-A full-stack application built with TypeScript showcasing modern web architecture patterns, clean code principles, and production-ready deployment strategies.
-
-**Tech:** `TypeScript` `Next.js` `Full Stack`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [LIVE_LEARN_HUB](https://github.com/rohanjain1648/LIVE_LEARN_HUB)
-> **Live Learning Platform**
-
-A dynamic learning hub enabling real-time educational experiences, built with TypeScript for performance and scalability.
-
-**Tech:** `TypeScript` `Real-time` `EdTech`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛓️ [LIVE_WEB3_HUB](https://github.com/rohanjain1648/LIVE_WEB3_HUB)
-> **Web3 Integration Platform**
-
-Exploring the intersection of decentralized technologies and modern web development, building on-chain experiences with TypeScript.
-
-**Tech:** `TypeScript` `Web3` `Blockchain`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [ai_in_outback](https://github.com/rohanjain1648/ai_in_outback)
-> **AI Exploration Project**
-
-Pushing the boundaries of AI applications in unique, unconventional contexts — because innovation lives at the edge.
-
-**Tech:** `TypeScript` `AI` `Experimental`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ### 🧠 AI / ML / DL
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🔮 GenAI / LLM Ecosystem
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6b21a8?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0096FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangFuse-6366F1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
-### 🌐 Full Stack
+### 🌐 Web & Full Stack
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & DevOps
+### 🗄️ Databases, Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
-### ⛓️ Web3
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-</p>
 
 ---
 
@@ -339,8 +274,84 @@ jobs:
 | 🎯 **LLM Applications** | Gemini, GPT-4, Claude | Broadcast Generator |
 | 👁️ **Multimodal AI** | Vision Models, CLIP, SAM | AI Doctor |
 | 🗂️ **RAG Systems** | Vector DBs, Embeddings | Knowledge Retrieval |
-| 🌐 **AI + Web3** | On-chain AI, Smart Contracts | LIVE_WEB3_HUB |
 | 📚 **AI in EdTech** | Personalization, NLP | LIVE_LEARN_HUB |
+
+---
+
+## 🏅 Achievements & Recognition
+
+<div align="center">
+
+<!-- Competitive Programming Highlight -->
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🟡 LeetCode
+**Knight** — Rating **2081**
+`Top 2% Globally`
+1000+ problems solved
+
+</td>
+<td align="center" width="25%">
+
+### 🟢 GeeksforGeeks
+Rating **1839**
+`Rank 119` — GFG Weekly 187
+1000+ problems solved
+
+</td>
+<td align="center" width="25%">
+
+### 🏆 Salesforce
+**FutureForce Tech**
+**Accelerator 2025**
+`Top 120 / 5000+ applicants`
+
+</td>
+<td align="center" width="25%">
+
+### 🎓 NPTEL
+**DSA in Java**
+`Top 5% — Topper`
+Oracle GenAI Certified
+
+</td>
+</tr>
+</table>
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         COMPETITIVE PROGRAMMING WALL                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  🟡  LeetCode Knight        Rating: 2081    Top 2% Globally                 ║
+║  🟢  GeeksforGeeks          Rating: 1839    Rank 119 in GFG Weekly 187      ║
+║  🔵  LeetCode Weekly 460    Rank: 198       Top competitive performance      ║
+║  🔵  LeetCode Weekly 453    Rank: 435       Consistent top-tier finishes     ║
+║  💻  Problems Solved        1000+           LeetCode + GFG + Codeforces      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### 🚀 Hackathons & Competitions
+
+| 🏆 Event | 🎖️ Result | 📌 Details |
+|---------|----------|-----------|
+| **Salesforce FutureForce Tech Accelerator 2025** | ✅ Selected | Top **120 out of 5000+** applicants — Hyderabad |
+| **Udbhabani Hackathon** | 🥈 Runner Up | National-level innovation hackathon |
+| **Code Cubicle 4.0 Hackathon** | 🥈 Runner Up | Competitive coding + product challenge |
+| **DriveBlaze Hackathon** | 🥈 Runner Up | Industry-level build challenge |
+| **AtomQuest Hackathon** by Atomberg Technologies | 🏅 Semi-Finalist | Competitive tech problem-solving |
+| **Nexus AI Reignite** — AI Case Study | 🥉 Second Runner Up | AI-focused strategy & solution design |
+
+### 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL_DSA_in_Java-Top_5%25_Topper-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science_Professional-Certified-0064a5?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ---
 
