@@ -129,58 +129,40 @@ class RohanJain:
 
 ## ✅ GitHub Analytics
 
-<!-- Row 1: Stats + Languages -->
+<!-- Row 1: Stats + Languages — using anuraghazra's self-hosted instance (most stable) -->
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=rohanjain1648&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjain1648&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohanjain1648&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjain1648&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&exclude_repo=rohanjain1648"/>
 
 </div>
 
-<!-- Row 2: Streak Stats -->
+<!-- Row 2: Streak Stats — streak-stats.demolab.com is the official stable host -->
 <div align="center">
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohanjain1648&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanjain1648&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
-<!-- Row 3: Trophies -->
+<!-- Row 3: Trophies — using gitprofile.netlify.app mirror which is more stable -->
 <div align="center">
 <br/>
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohanjain1648&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohanjain1648&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<!-- Row 4: Profile Summary Cards -->
+<!-- Row 4: Contribution Graph — using github-readme-activity-graph stable deployment -->
 <div align="center">
 <br/>
 
-### 📊 Detailed Profile Summary
+### 📈 Contribution Graph
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanjain1648&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanjain1648&theme=tokyonight" height="160em"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanjain1648&theme=tokyonight" height="160em"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanjain1648&theme=tokyonight&utcOffset=5.5" height="160em"/>
-
-</div>
-
----
-
-## ✅ Contribution Graph
-
-<div align="center">
-
-[![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanjain1648&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=a78bfa&area=true&hide_border=true&custom_title=Rohan%27s%20Contribution%20Graph&title_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanjain1648&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=true&custom_title=Rohan%27s%20Contribution%20Graph&title_color=a78bfa&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
