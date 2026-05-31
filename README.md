@@ -259,6 +259,8 @@ Oracle GenAI Certified
 | **DriveBlaze Hackathon** | 🥈 Runner Up | Industry-level build challenge |
 | **AtomQuest Hackathon** by Atomberg Technologies | 🏅 Semi-Finalist | Competitive tech problem-solving |
 | **Nexus AI Reignite** — AI Case Study | 🥉 Second Runner Up | AI-focused strategy & solution design |
+| **Meta X PyTorch X HuggingFace Hackathon** | 🥉 Finalist | Reinforcement Learning |
+| **Maruti Suzuki X IIM CALCUTTA HACKATHON**| 🥉 Second Runner Up | AI-focused Sustainable Management |
 
 ### 📜 Certifications
 
